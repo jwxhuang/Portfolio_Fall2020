@@ -6,7 +6,7 @@
     /* Regular = 400, Semibold = 600*/
     box-sizing: border-box;
     color: #E9E7F0;
-    background-color: #000000;
+    background-color: #04010e;
 }
   
   html {
@@ -118,16 +118,12 @@ h3{
   width: 160px;
   right: 80px;
   margin-bottom: 0px;
-  background-color: brown;
 }
-
-
 
 .past_work_title{
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
-  background-color: blueviolet;
 }
 
 hr.solid_line {
@@ -184,8 +180,12 @@ h4 {
     }
 
     #work_archive_contribution{
-      left: 1200px;
+      display: none;
     }
+
+
+
+
   }
 
 
